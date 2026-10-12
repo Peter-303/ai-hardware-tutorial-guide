@@ -1,6 +1,6 @@
-# ✍️ tutorial-writer · AI 硬件教程写作助手
+# ✍️ tutorial-writer 
 
-一个 [Claude Code](https://claude.com/claude-code) Skill，让 Claude 帮你写出**亲切不劝退、与运营高度适配**的 AI 硬件开源教程。
+一个 [Claude Code](https://claude.com/claude-code) Skill
 
 写作规范沉淀自 [Datawhale](https://github.com/datawhalechina) 社区 200+ 开源教程的实践（含官方 DOPMC 流程与 [whale-bot 鲸鱼小车](https://github.com/datawhalechina/whale-bot)）。
 
